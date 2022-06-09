@@ -1,6 +1,7 @@
 import java.util.Hashtable;
 
-class Solution {
+class TwoSum {
+    
     public int[] twoSum(int[] nums, int target) {
         
         Hashtable<Integer, Integer> hash = new Hashtable<Integer, Integer>();

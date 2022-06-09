@@ -1,6 +1,7 @@
 import java.util.Hashtable;
 
-class Solution {
+class LengthOfLongestSubstring {
+
     public int lengthOfLongestSubstring(String s) {
     
         Hashtable<Character, Integer> hash = new Hashtable<Character, Integer>();

@@ -1,4 +1,5 @@
-class Solution {
+class LongestCommonPrefix {
+
     public String longestCommonPrefix(String[] strs) {
         
         String longest = "";

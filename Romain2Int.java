@@ -1,4 +1,5 @@
-class Solution {
+class Roman2Int {
+    
     public int romanToInt(String s) {
         char[] charArr = s.toCharArray();
         int i;

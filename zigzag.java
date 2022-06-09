@@ -1,4 +1,8 @@
-class Solution {
+import java.util.HashMap;
+import java.util.Map;
+
+class Zigzag {
+
     public String convert(String s, int numRows) {
         
         Map<Integer, String> rows = new HashMap<Integer, String>();

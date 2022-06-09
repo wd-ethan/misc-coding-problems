@@ -1,6 +1,7 @@
 import java.util.*;
 
-class Solution {
+class ValidParenthsis {
+    
     public boolean isValid(String s) {
         
         Stack stack = new Stack();
